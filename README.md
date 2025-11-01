@@ -8,8 +8,7 @@
 ```bash
 cd backend
 npm i
-npm run dev   # nodemon
-# או: npm start
+npm run dev
 # API: http://localhost:8000
 ```
 
@@ -18,7 +17,7 @@ npm run dev   # nodemon
 cd ../frontend
 npm i
 npm run dev
-# http://localhost:5173  (פרוקסי /api -> :8000)
+# http://localhost:5173
 ```
 
 ## Endpoints
