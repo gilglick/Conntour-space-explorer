@@ -1,0 +1,26 @@
+.sort-select {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.sort-select-label {
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+
+.sort-select select {
+  background: #0f1530;
+  color: #e7ecff;
+  border: 1px solid #28356d;
+  border-radius: 8px;
+  padding: 6px 10px;
+  outline: none;
+  cursor: pointer;
+}
+
+.sort-select select:hover {
+  background: #15204b;
+}
+

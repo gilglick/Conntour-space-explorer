@@ -1,0 +1,82 @@
+[
+  {
+    "id": "nasa_0001",
+    "title": "Mars Rover Curiosity at Gale Crater",
+    "description": "Curiosity rover exploring sedimentary layers in Gale Crater on Mars.",
+    "date": "2015-06-03",
+    "url": "https://images-assets.nasa.gov/image/PIA19808/PIA19808~orig.jpg",
+    "thumbnail": "https://images-assets.nasa.gov/image/PIA19808/PIA19808~thumb.jpg",
+    "keywords": [
+      "Mars",
+      "Rover",
+      "Curiosity",
+      "Gale Crater"
+    ]
+  },
+  {
+    "id": "nasa_0002",
+    "title": "Solar Flare from Active Region 2887",
+    "description": "A powerful X-class solar flare captured by the Solar Dynamics Observatory.",
+    "date": "2021-10-28",
+    "url": "https://images-assets.nasa.gov/image/PIA03149/PIA03149~orig.jpg",
+    "thumbnail": "https://images-assets.nasa.gov/image/PIA03149/PIA03149~thumb.jpg",
+    "keywords": [
+      "Sun",
+      "Solar Flare",
+      "SDO",
+      "X-class"
+    ]
+  },
+  {
+    "id": "nasa_0003",
+    "title": "Saturn and its Rings",
+    "description": "Cassini spacecraft image showing intricate ring structures around Saturn.",
+    "date": "2006-02-15",
+    "url": "https://images-assets.nasa.gov/image/PIA06077/PIA06077~orig.jpg",
+    "thumbnail": "https://images-assets.nasa.gov/image/PIA06077/PIA06077~thumb.jpg",
+    "keywords": [
+      "Saturn",
+      "Rings",
+      "Cassini"
+    ]
+  },
+  {
+    "id": "nasa_0004",
+    "title": "Hubble Deep Field Galaxies",
+    "description": "A collection of distant galaxies captured by the Hubble Space Telescope.",
+    "date": "1995-12-18",
+    "url": "https://images-assets.nasa.gov/image/PIA12110/PIA12110~orig.jpg",
+    "thumbnail": "https://images-assets.nasa.gov/image/PIA12110/PIA12110~thumb.jpg",
+    "keywords": [
+      "Hubble",
+      "Galaxies",
+      "Deep Field"
+    ]
+  },
+  {
+    "id": "nasa_0005",
+    "title": "International Space Station over Earth",
+    "description": "The ISS passing over a blue Earth with cloud formations visible.",
+    "date": "2018-03-12",
+    "url": "https://images-assets.nasa.gov/image/iss060e000602/iss060e000602~orig.jpg",
+    "thumbnail": "https://images-assets.nasa.gov/image/iss060e000602/iss060e000602~thumb.jpg",
+    "keywords": [
+      "ISS",
+      "Earth",
+      "Orbit"
+    ]
+  },
+  {
+    "id": "nasa_0006",
+    "title": "Lunar Surface Panorama",
+    "description": "Apollo mission panoramic view of the Moon surface.",
+    "date": "1971-08-01",
+    "url": "https://images-assets.nasa.gov/image/AS15-88-11901/AS15-88-11901~orig.jpg",
+    "thumbnail": "https://images-assets.nasa.gov/image/AS15-88-11901/AS15-88-11901~thumb.jpg",
+    "keywords": [
+      "Moon",
+      "Apollo",
+      "Panorama"
+    ]
+  }
+]

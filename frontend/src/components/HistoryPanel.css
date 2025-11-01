@@ -1,0 +1,33 @@
+
+.history-header {
+  justify-content: space-between;
+}
+
+.history-actions {
+  gap: 6px;
+}
+
+.history-query {
+  margin: 0;
+  font-weight: 700;
+}
+.history-datetime {
+  margin: 0;
+  font-size: 0.8rem;
+  opacity: 0.8;
+}
+
+hr.separator { border: none; border-top: 1px solid #243160; margin: 16px 0; }
+
+.history-metadata {
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.history-metadata-item {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+

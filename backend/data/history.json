@@ -1,0 +1,26 @@
+[
+  {
+    "id": "srch_20251101080047970104",
+    "query": "sun",
+    "created_at": "2025-11-01T08:00:47.970Z",
+    "results": [
+      {
+        "image": {
+          "id": "nasa_0002",
+          "title": "Solar Flare from Active Region 2887",
+          "description": "A powerful X-class solar flare captured by the Solar Dynamics Observatory.",
+          "date": "2021-10-28",
+          "url": "https://images-assets.nasa.gov/image/PIA03149/PIA03149~orig.jpg",
+          "thumbnail": "https://images-assets.nasa.gov/image/PIA03149/PIA03149~thumb.jpg",
+          "keywords": [
+            "Sun",
+            "Solar Flare",
+            "SDO",
+            "X-class"
+          ]
+        },
+        "score": 0.058823529411764705
+      }
+    ]
+  }
+]

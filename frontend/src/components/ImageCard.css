@@ -1,0 +1,36 @@
+.image-card-content {
+  margin-top: 8px;
+}
+
+.image-card-header {
+  justify-content: space-between;
+}
+
+.keywords-container {
+  margin-top: 6px;
+}
+
+.keyword-badge {
+  margin-right: 4px;
+}
+
+.image-card-title {
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.image-card-description {
+  margin: 0;
+}
+
+.card > a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+.card > a:hover .thumb {
+  opacity: 0.8;
+}
+
